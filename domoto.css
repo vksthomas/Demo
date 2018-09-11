@@ -1,0 +1,49 @@
+.abc{
+width: 1600px;
+height: 100px;
+background-image: url("/Users/vksthomas/Desktop/Demo/pattern.jpg");
+}
+.pqr{
+  font-size: 100px;
+font-weight: bold;
+font-family: Helvetica;
+  text-align: center;
+  color: Khaki;
+}
+#marg{
+  margin: auto;
+  border: solid red;
+  padding: 10px;
+}
+#ps{
+height: 45px;
+width: 1600px;
+color: white;
+background-color: mediumspringgreen;
+font-size: 32px;
+font-family: Helvetica;
+}
+#qw{
+  font-family: Helvetica;
+  font-weight: Bold;
+  color: Blue;
+}
+#er{
+  height: 45px;
+  width: 1600px;
+  color: white;
+  background-color: lightcoral;
+  font-size: 32px;
+  font-family: Helvetica;
+}
+#re{
+    height: 45px;
+    width: 1600px;
+    color: white;
+    background-color: skyblue;;
+    font-size: 32px;
+    font-family: Helvetica;
+  }
+  strong{
+    color:blue;
+  }

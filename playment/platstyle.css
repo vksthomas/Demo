@@ -1,0 +1,142 @@
+.poi{
+  background-color: #010a28;
+  width: 1430px;
+  height: 100px;
+  margin: 0px;
+	display: table;
+	margin: 0 auto;
+  padding: 10;
+}
+.poi a{
+align-items: baseline;
+
+}
+.abc{
+background-color: #010a28;
+color: white;
+font-size: 30px;
+text-align: center;
+width: 1430px;
+height: 400px;
+margin: 0px;
+padding: 1px;
+}
+#pqr{
+  height: 40px;
+  width: 160px;
+  font-size: 17px;
+  color: blue;
+  cursor: pointer;
+}
+#epr {
+  color: white;
+  background-color: #010a28;
+  height: 40px;
+  width: 160px;
+  font-size: 17px;
+  cursor: pointer;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  list-style-type: none;
+  display: inline;
+  margin-top: 0;
+ margin-bottom: 0;
+}
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+}
+li {
+    float: left;
+}
+.ds{
+  width: 1430px;
+}
+.dr{
+  padding: 1px;
+    width: 1430px;
+    height: 400px;
+
+}
+.re{
+  text-align: center;
+  opacity: .7;
+  font-size: 17px;
+  font-family: Source Sans Pro ;
+  font-weight: 500;
+  padding-top: 100px;
+  padding-bottom: 10px;
+  letter-spacing: 2px;
+}
+#avc
+{
+  height: 100px;
+  width: 1100px;
+  display: block;
+  margin-left: auto;
+   margin-right: auto;
+   opacity: .40;
+}
+#avp{
+     float: left;
+     display: table;
+     width: 110px;
+     padding: 30px;
+}
+#red{
+  width: 970px;
+  margin-left: 250px;
+  margin-right: 180px;
+}
+.ra{
+    text-align: center;
+    opacity: .7;
+    font-size: 17px;
+    font-family: Source Sans Pro ;
+    font-weight: 500;
+    padding-top: 100px;
+    padding-bottom: 50px;
+    letter-spacing: 2px;
+}
+#po{
+  padding: 80px;
+text-align: center;
+}
+#per{
+  text-decoration:none;
+  padding: 1px;
+  display: inline-block;
+  float:inherit;
+  font-family: Arial;
+}
+#po img{
+  width:25px;
+  margin-top: 1px;
+  padding: 1px;
+}
+#rer{
+align-items:center;
+}
+.rae{
+    text-align: left;
+    opacity: .7;
+    font-size: 17px;
+    font-family: Source Sans Pro ;
+    font-weight: 500;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    letter-spacing: 2px;
+    padding-left: 10px;
+}
+#tyr{
+  width: 1000px;
+  margin-left: 600px;
+
+}
+#prt{
+
+}

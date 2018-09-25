@@ -142,9 +142,8 @@ align-items:center;
 #tyr{
   width: 950px;
   margin-left: 300px;
-  height: 450px;
+  height: 550px;
   position: relative;
-  border:3px solid;
 }
 #prt p{
 width: 575px;
@@ -198,12 +197,14 @@ position: relative;
   right:00px;
   top:0px;
 }
+
+
+
 #tyyr{
   width: 950px;
   margin-left: 300px;
-  height: 450px;
+  height: 550px;
   position: relative;
-  border:3px solid;
 }
 #popit
 {
@@ -215,21 +216,433 @@ position: relative;
   font-family: sans-serif;
   width:250px;
 }
+#prot{
+  position: absolute;
+  left:370px;
+  top:30px;
+}
 #prot p{
-  width: 575px;
+  width: 475px;
   word-spacing: 3px;
   font-size: .9rem;
   opacity:.5;
   line-height: 1.7;
   font-family: Source Sans Pro,sans-serif;
-  font-size: 17px;
-  position: relative;
-  padding-left: 300px;
-  padding-top:0;
+  font-size: 15px;
+  
   }
   #prot h2{
     opacity:.75;
-    position: absolute;
-    padding-left: 30px;
-    padding-bottom: 100px; 
   }
+#rtre{
+  width: 950px;
+  margin-left: 300px;
+  height: 550px;
+  position: relative;
+}
+#ytr{
+  position: absolute;
+  width:500px;
+  }
+ #ytr p{
+  width: 500px;
+  word-spacing: 3px;
+  font-size: .9rem;
+  opacity:.5;
+  line-height: 1.7;
+  font-family: Source Sans Pro,sans-serif;
+  font-size: 15px;
+ } 
+#ytry{
+  position: absolute;
+  left:700px;
+}
+#bgh{
+  height: 275px;
+  width: 250px;
+  background-color: blue;
+
+}
+#uiu{
+
+}
+
+#opi{
+  padding-left: 00px;
+  font-size: 13px;
+  opacity: .5;
+  line-height: 1.7;
+  font-family: sans-serif;
+  width:250px;
+
+}
+#lolo{
+height: 1200px;
+width: 100%;
+background-image: linear-gradient(to right, #000c2c, #000820); 
+position: relative;
+}
+#herd{
+  color:white;
+  position: absolute;
+  left:600px;
+  top: 100px;
+  font-family: Source Sans Pro,sans-serif;
+  font-size: .9rem;
+  letter-spacing: 1.2px;
+  font-weight: 200px; 
+}
+#vbv{
+  background-color: #00071d !important;
+  position: absolute;
+  height: 300px;
+  width: 1000px;
+  top: 200px;
+  left: 200px;
+  border-radius: 10px;
+}
+
+#oneq{
+position: absolute;
+left:120px;
+top:75px;
+height: 120px;
+width: 120px;
+}
+#frev{
+  color: white;
+  position: absolute;
+  left: 40px;
+  opacity: .8;
+  line-height: 1.5;
+  font-size: .9rem;
+  font-family: Source Sans Pro,sans-serif;
+  opacity: .5;
+}
+#frec{
+  color: white;
+  position: relative;
+  left: 0px;
+  opacity: .8;
+  font-size: 1rem;
+  font-family: Source Sans Pro,sans-serif;
+  width:200;
+  height:10px;
+  font-weight: 400;
+  top:25px;
+  text-align: left;
+}
+#twoq{
+  position: absolute;
+  left:420px;
+  top:75px;
+  height: 120px;
+  width: 120px;
+}
+#threeq{
+  position: absolute;
+  left:700px;
+  top:75px;
+  height: 120px;
+  width: 120px;
+}
+#ropl{
+  background-color: #00071d !important;
+  position: absolute;
+  height: 550px;
+  width: 1000px;
+  top: 550px;
+  left: 200px;
+  border-radius: 10px;
+}
+#oneo{
+  position: absolute;
+left:150px;
+top:75px;
+height: 120px;
+width: 120px;
+font-family: Source Sans Pro,sans-serif;
+  }
+  #frecc{
+    color: white;
+    position: relative;
+    left: -30px;
+    opacity: .8;
+    font-size: 1rem;
+    font-family: Source Sans Pro,sans-serif;
+    font-weight: 400;
+    top:1px;
+    text-align: left;
+  }
+  #twoo{
+    position: absolute;
+  left:460px;
+  top:75px;
+  height: 120px;
+  width: 120px;
+  font-family: Source Sans Pro,sans-serif;
+    }
+    #freccc{
+      color: white;
+      position: relative;
+      left: -50px;
+      width: 200px;
+      opacity: .8;
+      font-size: 1rem;
+      font-family: Source Sans Pro,sans-serif;
+      font-weight: 400;
+      top:1px;
+      text-align: left;
+    }
+    #threeo{
+      position: absolute;
+    left:750px;
+    top:75px;
+    height: 120px;
+    width: 120px;
+    font-family: Source Sans Pro,sans-serif;
+      }
+      #frecccc{
+        color: white;
+        position: relative;
+        left: -50px;
+        width: 200px;
+        opacity: .8;
+        font-size: 1rem;
+        font-family: Source Sans Pro,sans-serif;
+        font-weight: 400;
+        top:1px;
+        text-align: left;
+      }
+      #fouro{
+        position: absolute;
+      left:150px;
+      top:250px;
+      height: 120px;
+      width: 120px;
+      font-family: Source Sans Pro,sans-serif;
+        }
+        #fiveo{
+          position: absolute;
+        left:380px;
+        top:250px;
+        height: 120px;
+        width: 120px;
+        font-family: Source Sans Pro,sans-serif;
+          }
+          #sixo{
+            position: absolute;
+          left:560px;
+          top:250px;
+          height: 120px;
+          width: 120px;
+          font-family: Source Sans Pro,sans-serif;
+            }
+            #seveno{
+              position: absolute;
+            left:750px;
+            top:250px;
+            height: 120px;
+            width: 120px;
+            font-family: Source Sans Pro,sans-serif;
+              }
+              #eighto{
+                position: absolute;
+              left:150px;
+              top:425px;
+              height: 120px;
+              width: 120px;
+              font-family: Source Sans Pro,sans-serif;
+
+                }
+                #nineo{
+                  position: absolute;
+                left:460px;
+                top:425px;
+                height: 120px;
+                width: 120px;
+                font-family: Source Sans Pro,sans-serif;
+                  }
+                  #teno{
+                    position: absolute;
+                  left:700px;
+                  top:400px;
+                  }
+
+ #trf{
+   background-color:white;
+   height: 1px;
+   width: 100%;
+ }                   
+
+ #frfr{
+   background-color: #000c2c;
+   width:100%;
+   height:600px;
+   position: relative;
+ }
+ #pokj{
+ position: absolute;
+ left:550px;
+ color:white;
+ font-family:  Source Sans Pro,sans-serif;
+ top: 20px;
+ letter-spacing: 2px;
+ font-weight: .1px;
+ }
+
+ #jec{
+   font-family: Georgia,serif;
+   font-size: 1.1rem;
+   line-height: 1.6;
+   position: relative;
+   width:650px;
+
+ }
+ #tgv{
+   position: absolute;
+   top: 70px;
+   left: 400px;
+   color:white;
+   font-size: 1.1rem;
+   line-height: 1.6;
+   width:50%;
+   }
+#dess{
+  position: absolute;
+   top: 70px;
+   left: 800px;
+   color:white;
+   font-size: 1.1rem;
+   line-height: 1.6;
+   width: 50%;
+}
+
+#pol{
+  opacity: .5;
+  color:white;
+  top: 260px;
+  left: 400px;
+  position: absolute;
+  font-family: Source Sans Pro,sans-serif;
+  font-size: .88rem;
+}
+#poll{
+  opacity: .5;
+  color:white;
+  top: 375px;
+  left: 800px;
+  position: absolute;
+  font-family: Source Sans Pro,sans-serif;
+  font-size: .88rem;
+  width:50%;
+}
+#imgg{
+  position: absolute;
+  left:170px;
+  top:36px;
+}
+#immgg{
+  position: absolute;
+  left:1150px;
+  top:70px;
+}
+#frd{
+  width:100%;
+  height:200px;
+  background-image: linear-gradient(66deg,#134fff,#38a2ff);
+  position: relative;
+
+}
+#gft{
+  color:white;
+  position: absolute;
+  left:150px;
+  top:60px;
+  font-family: Source Sans Pro,sans-serif;
+  font-size: 1rem;
+}
+#contactBannerForm{
+  position: absolute;
+  top:60px;
+  left:550;
+  font-family: Source Sans Pro,sans-serif;
+  width: 380px;
+  outline: none;
+  font-size: .9rem;
+   line-height: 1rem;
+    cursor: pointer;
+    color: #fff;
+    background-color: hsla(0,0%,100%,.16);
+}
+#contactEmail {
+  font-family: Source Sans Pro,sans-serif;
+  flex-shrink: 1;
+  width: 380px;
+  margin-right: 20px;
+  outline: none;
+  border-radius: 2px;
+  border: 0;
+  padding: 14px 16px;
+  font-size: .9rem;
+  line-height: 1rem;
+  cursor: pointer;
+  color: #fff;
+  background-color: hsla(0,0%,100%,.16);
+}
+#contactBannerButton{
+  color: #3c4fdf;
+  line-height: 1rem;
+  font-weight: 1200;
+  white-space: nowrap;
+  font-family: Source Sans Pro,sans-serif;
+  cursor: pointer;
+  font-size: 20px;
+  position: absolute;
+  top:0px;
+  left:400;
+  display: inline-block;
+  padding: 12px 18px 14px;
+}
+#iopl{
+  width:100%;
+  height:400px;
+  background-image: linear-gradient(90deg,#000820,#001343);
+  color: white;
+  position: relative;
+}
+#cvf{
+   position: absolute;
+   left: 225px;
+   top:50px;
+
+}
+#cvf p,#cvff p,#tgbh p,#tabh p{
+  opacity: .5;
+  line-height: 1.5;
+}
+#cvf a,#cvff a,#tgbh a,#tabh a{
+  color: inherit;
+  text-decoration: none;
+}
+#cvff{
+  position: absolute;
+  left: 525px;
+  top:50px;
+
+}
+#tgbh{
+  position: absolute;
+  left: 825px;
+  top:50px;
+}
+#tabh{
+  position: absolute;
+  left: 1125px;
+  top:50px;
+}
+.imjh{
+  height: 2px !important;
+  width: 32px;
+  
+}
